@@ -1,4 +1,4 @@
-## Hi there From 👋MuhunthaVel.M
+## Hi there From 👋Muhuntha Vel.M
 
 ## 🚀 Skills
 

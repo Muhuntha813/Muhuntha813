@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋 I'm Muhuntha Vel.M</h1>
 
 <p align="left">
-🎓 2nd Year B.Tech Student <br>
+🎓 3rd Year B.Tech Student <br>
 💻 Passionate about Full Stack Development <br>
 🚀 Currently learning and building real-world projects <br>
 🎯 Goal: Become a strong developer, freelancer, and build impactful products
